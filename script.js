@@ -52,7 +52,7 @@ console.log(nombre1+apellido1);
 
 
 //operadores de comparacion
-let numeros=23;
+let numeros=2;
 let num=13;
 document.write(numeros > num)
 
